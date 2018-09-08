@@ -1,12 +1,6 @@
 /*
  * lcd.c
  *
- * Created: 07.09.2018 19:59:28
- *  Author: 123
- */ 
-/*
- * lcd.c
- *
  * Author : Nikita Evsyukov
  */ 
 
